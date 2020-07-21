@@ -4,7 +4,8 @@ post_title: Cart
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/tickets-cart/
+permalink: >
+  http://35.173.249.99/blog/tickets-payment/tickets-cart/
 published: true
 post_date: 2020-07-19 09:21:13
 ---
