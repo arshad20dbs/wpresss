@@ -1,10 +1,10 @@
 ---
-ID: 64
+ID: 45
 post_title: Contact Us
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/contact-us/
+permalink: http://35.173.249.99/blog/?page_id=45
 published: true
 post_date: 2018-03-02 15:37:04
 ---
