@@ -1,12 +1,12 @@
 ---
-ID: 76
+ID: 57
 post_title: Belmiro
 author: arshad
 post_excerpt: |
   Director
   Hire Company
 layout: page
-permalink: http://35.173.249.99/blog/belmiro/
+permalink: http://35.173.249.99/blog/?page_id=57
 published: true
 post_date: 2018-03-02 10:08:26
 ---
