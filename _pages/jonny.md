@@ -1,5 +1,5 @@
 ---
-ID: 74
+ID: 55
 post_title: Jonny
 author: arshad
 post_excerpt: >
@@ -11,7 +11,7 @@ post_excerpt: >
   et. In duis ocurreret consequat qui.
   Tota inimicus ea vim.
 layout: page
-permalink: http://35.173.249.99/blog/jonny/
+permalink: http://35.173.249.99/blog/?page_id=55
 published: true
 post_date: 2018-03-02 10:48:50
 ---
