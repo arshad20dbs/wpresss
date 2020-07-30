@@ -1,5 +1,5 @@
 ---
-ID: 126
+ID: 107
 post_title: Keep Motivation
 author: arshad
 post_excerpt: >
@@ -8,8 +8,7 @@ post_excerpt: >
   at, possim nostrud appellantur cu pri.
   Debet solet definitiones at duo.
 layout: page
-permalink: >
-  http://35.173.249.99/blog/keep-motivation/
+permalink: http://35.173.249.99/blog/?page_id=107
 published: true
 post_date: 2018-03-01 10:34:51
 ---
