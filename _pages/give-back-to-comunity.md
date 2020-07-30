@@ -1,5 +1,5 @@
 ---
-ID: 124
+ID: 105
 post_title: Give back to comunity
 author: arshad
 post_excerpt: >
@@ -9,8 +9,7 @@ post_excerpt: >
   tractatos intellegat vix, id harum
   nostro.
 layout: page
-permalink: >
-  http://35.173.249.99/blog/give-back-to-comunity/
+permalink: http://35.173.249.99/blog/?page_id=105
 published: true
 post_date: 2018-03-01 10:35:19
 ---
