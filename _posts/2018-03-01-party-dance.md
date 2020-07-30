@@ -1,11 +1,10 @@
 ---
-ID: 58
+ID: 39
 post_title: Party Dance
 author: arshad
 post_excerpt: ""
 layout: post
-permalink: >
-  http://35.173.249.99/blog/2018/03/01/party-dance/
+permalink: http://35.173.249.99/blog/?p=39
 published: true
 post_date: 2018-03-01 18:38:44
 ---
