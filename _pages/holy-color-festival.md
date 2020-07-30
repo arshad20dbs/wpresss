@@ -1,12 +1,11 @@
 ---
-ID: 136
+ID: 117
 post_title: Holy Color Festival 2019
 author: arshad
 post_excerpt: |
   01 - 02 March, 2019, Kathmandu Nepal
 layout: page
-permalink: >
-  http://35.173.249.99/blog/holy-color-festival/
+permalink: http://35.173.249.99/blog/?page_id=117
 published: true
 post_date: 2018-03-01 09:47:52
 ---
