@@ -1,12 +1,12 @@
 ---
-ID: 86
+ID: 67
 post_title: Pona Moon
 author: arshad
 post_excerpt: |
   Director
   Crayon Company
 layout: page
-permalink: http://35.173.249.99/blog/pona-moon/
+permalink: http://35.173.249.99/blog/?page_id=67
 published: true
 post_date: 2018-03-02 10:00:27
 ---
