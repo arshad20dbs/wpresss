@@ -1,11 +1,10 @@
 ---
-ID: 110
+ID: 91
 post_title: Musical Event 2019
 author: arshad
 post_excerpt: 14 February, 2019, Paris France
 layout: page
-permalink: >
-  http://35.173.249.99/blog/musical-event-2019/
+permalink: http://35.173.249.99/blog/?page_id=91
 published: true
 post_date: 2018-03-01 17:41:28
 ---
