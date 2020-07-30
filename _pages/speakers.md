@@ -1,10 +1,10 @@
 ---
-ID: 118
+ID: 99
 post_title: Speakers
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/speakers/
+permalink: http://35.173.249.99/blog/?page_id=99
 published: true
 post_date: 2018-03-01 16:00:32
 ---
