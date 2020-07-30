@@ -1,5 +1,5 @@
 ---
-ID: 112
+ID: 93
 post_title: Have Further Query
 author: arshad
 post_excerpt: |
@@ -7,10 +7,10 @@ post_excerpt: |
   
   [contact-form-7 id="98" title="Contact form 1"]
 layout: page
-permalink: http://35.173.249.99/blog/faq/
+permalink: http://35.173.249.99/blog/?page_id=93
 published: true
 post_date: 2018-03-01 16:33:19
 ---
 Feel free to ask any query related to events
 
- [contact-form-7 id="33" title="Contact form 1"]
+ [contact-form-7 id="14" title="Contact form 1"]
