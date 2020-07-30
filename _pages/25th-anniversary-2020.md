@@ -1,11 +1,10 @@
 ---
-ID: 104
+ID: 85
 post_title: 25th Anniversary 2020
 author: arshad
 post_excerpt: 11 March, 2019, Tehran Iran
 layout: page
-permalink: >
-  http://35.173.249.99/blog/25th-anniversary-2020/
+permalink: http://35.173.249.99/blog/?page_id=85
 published: true
 post_date: 2018-03-01 18:17:24
 ---
