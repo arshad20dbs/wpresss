@@ -1,12 +1,12 @@
 ---
-ID: 88
+ID: 69
 post_title: Asle Jenny
 author: arshad
 post_excerpt: |
   Director
   Beta Company
 layout: page
-permalink: http://35.173.249.99/blog/asle-jenny/
+permalink: http://35.173.249.99/blog/?page_id=69
 published: true
 post_date: 2018-03-02 09:58:59
 ---
