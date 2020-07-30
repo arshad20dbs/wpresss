@@ -1,11 +1,10 @@
 ---
-ID: 106
+ID: 87
 post_title: Wedding Season 2019
 author: arshad
 post_excerpt: 11 March, 2019, Delhi India
 layout: page
-permalink: >
-  http://35.173.249.99/blog/wedding-season-2019/
+permalink: http://35.173.249.99/blog/?page_id=87
 published: true
 post_date: 2018-03-01 18:09:11
 ---
