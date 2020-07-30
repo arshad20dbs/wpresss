@@ -1,5 +1,5 @@
 ---
-ID: 120
+ID: 101
 post_title: Contact Information
 author: arshad
 post_excerpt: |
@@ -9,8 +9,7 @@ post_excerpt: |
   
   An velit malorum pri. Ne suas vocibus consectetuer mei, ex soleat libris alterum per. Eum ea tollit qualisque tincidunt, recteque adversarium mei ut, te novum corpora vel. Probo veniam possim cu eum. At duo bonorum nonumes omnesque.
 layout: page
-permalink: >
-  http://35.173.249.99/blog/contact-information/
+permalink: http://35.173.249.99/blog/?page_id=101
 published: true
 post_date: 2018-03-01 16:00:03
 ---
