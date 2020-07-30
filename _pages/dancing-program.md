@@ -1,5 +1,5 @@
 ---
-ID: 94
+ID: 75
 post_title: Dancing Program
 author: arshad
 post_excerpt: |
@@ -9,8 +9,7 @@ post_excerpt: |
   9:00 AM	Registration Starts
   9:50 AM	Dancing Program
 layout: page
-permalink: >
-  http://35.173.249.99/blog/dancing-program/
+permalink: http://35.173.249.99/blog/?page_id=75
 published: true
 post_date: 2018-03-02 08:23:27
 ---
