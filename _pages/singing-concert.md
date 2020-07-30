@@ -1,5 +1,5 @@
 ---
-ID: 96
+ID: 77
 post_title: Singing Concert
 author: arshad
 post_excerpt: |
@@ -9,8 +9,7 @@ post_excerpt: |
   9:00 AM	Registration Starts
   9:50 AM	Singing Concert
 layout: page
-permalink: >
-  http://35.173.249.99/blog/singing-concert/
+permalink: http://35.173.249.99/blog/?page_id=77
 published: true
 post_date: 2018-03-02 08:22:49
 ---
