@@ -1,12 +1,12 @@
 ---
-ID: 70
+ID: 51
 post_title: Mike
 author: arshad
 post_excerpt: |
   
   Vide velit affert at eos, no mel saperet percipit iudicabit, ei sea antiopam persecuti. Ut iisque nostrud eam. Sit habemus erroribus et. Paulo prodesset disputando his cu, duis disputando his ad, vim invenire patrioque ex.
 layout: page
-permalink: http://35.173.249.99/blog/mike/
+permalink: http://35.173.249.99/blog/?page_id=51
 published: true
 post_date: 2018-03-02 10:49:44
 ---
