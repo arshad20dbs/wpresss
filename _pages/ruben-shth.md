@@ -1,12 +1,12 @@
 ---
-ID: 78
+ID: 59
 post_title: Ruben Shth
 author: arshad
 post_excerpt: |
   Director
   Gum Company
 layout: page
-permalink: http://35.173.249.99/blog/ruben-shth/
+permalink: http://35.173.249.99/blog/?page_id=59
 published: true
 post_date: 2018-03-02 10:07:29
 ---
