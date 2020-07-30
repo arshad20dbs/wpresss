@@ -1,12 +1,12 @@
 ---
-ID: 82
+ID: 63
 post_title: Tina Karki
 author: arshad
 post_excerpt: |
   Director
   Egar Company
 layout: page
-permalink: http://35.173.249.99/blog/tina-karki/
+permalink: http://35.173.249.99/blog/?page_id=63
 published: true
 post_date: 2018-03-02 10:03:38
 ---
