@@ -1,5 +1,5 @@
 ---
-ID: 92
+ID: 73
 post_title: Closing Program
 author: arshad
 post_excerpt: |
@@ -10,8 +10,7 @@ post_excerpt: |
   9:50 AM	Dancing Program
   2:00 PM	Closing Ceremony Speech
 layout: page
-permalink: >
-  http://35.173.249.99/blog/closing-program/
+permalink: http://35.173.249.99/blog/?page_id=73
 published: true
 post_date: 2018-03-02 08:29:45
 ---
