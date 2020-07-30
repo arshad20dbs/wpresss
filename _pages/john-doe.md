@@ -1,12 +1,12 @@
 ---
-ID: 90
+ID: 71
 post_title: John Doe
 author: arshad
 post_excerpt: |
   Director
   Acme Company
 layout: page
-permalink: http://35.173.249.99/blog/john-doe/
+permalink: http://35.173.249.99/blog/?page_id=71
 published: true
 post_date: 2018-03-02 09:53:47
 ---
