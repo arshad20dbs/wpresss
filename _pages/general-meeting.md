@@ -1,5 +1,5 @@
 ---
-ID: 98
+ID: 79
 post_title: General Meeting
 author: arshad
 post_excerpt: |
@@ -9,8 +9,7 @@ post_excerpt: |
   9:00 AM	Registration Starts
   9:50 AM	General Meeting
 layout: page
-permalink: >
-  http://35.173.249.99/blog/general-meeting/
+permalink: http://35.173.249.99/blog/?page_id=79
 published: true
 post_date: 2018-03-02 08:21:13
 ---
