@@ -1,12 +1,12 @@
 ---
-ID: 84
+ID: 65
 post_title: Justin Don
 author: arshad
 post_excerpt: |
   Director
   Decor Company
 layout: page
-permalink: http://35.173.249.99/blog/justin-don/
+permalink: http://35.173.249.99/blog/?page_id=65
 published: true
 post_date: 2018-03-02 10:01:55
 ---
