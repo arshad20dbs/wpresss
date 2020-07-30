@@ -1,11 +1,10 @@
 ---
-ID: 60
+ID: 41
 post_title: Musical and Fun
 author: arshad
 post_excerpt: ""
 layout: post
-permalink: >
-  http://35.173.249.99/blog/2018/03/01/musical-and-fun/
+permalink: http://35.173.249.99/blog/?p=41
 published: true
 post_date: 2018-03-01 18:38:07
 ---
