@@ -1,5 +1,5 @@
 ---
-ID: 62
+ID: 43
 post_title: Amazing People Awesome Event
 author: arshad
 post_excerpt: >
@@ -16,8 +16,7 @@ post_excerpt: >
   ei sea, aliquam perfecto vis ut. Dico
   placerat sea ex.
 layout: post
-permalink: >
-  http://35.173.249.99/blog/2018/03/01/amazing-people-awesome-event/
+permalink: http://35.173.249.99/blog/?p=43
 published: true
 post_date: 2018-03-01 18:37:09
 ---
