@@ -1,11 +1,10 @@
 ---
-ID: 56
+ID: 37
 post_title: 'Holy &#8211; Fun &#038; Religion'
 author: arshad
 post_excerpt: ""
 layout: post
-permalink: >
-  http://35.173.249.99/blog/2018/03/01/holy-fun-religion/
+permalink: http://35.173.249.99/blog/?p=37
 published: true
 post_date: 2018-03-01 18:39:55
 ---
