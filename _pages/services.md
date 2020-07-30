@@ -1,10 +1,10 @@
 ---
-ID: 114
+ID: 95
 post_title: Services
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/services/
+permalink: http://35.173.249.99/blog/?page_id=95
 published: true
 post_date: 2018-03-01 16:00:57
 ---
