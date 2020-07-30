@@ -1,11 +1,10 @@
 ---
-ID: 66
+ID: 47
 post_title: Privacy Policy
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: >
-  http://35.173.249.99/blog/privacy-policy/
+permalink: http://35.173.249.99/blog/?page_id=47
 published: true
 post_date: 2018-03-02 11:07:17
 ---
