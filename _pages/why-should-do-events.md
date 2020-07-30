@@ -1,5 +1,5 @@
 ---
-ID: 130
+ID: 111
 post_title: Why should do Events?
 author: arshad
 post_excerpt: >
@@ -9,8 +9,7 @@ post_excerpt: >
   definiebas eum, oblique pertinacia nam
   ea.
 layout: page
-permalink: >
-  http://35.173.249.99/blog/why-should-do-events/
+permalink: http://35.173.249.99/blog/?page_id=111
 published: true
 post_date: 2018-03-01 10:33:07
 ---
