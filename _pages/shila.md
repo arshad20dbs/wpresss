@@ -1,5 +1,5 @@
 ---
-ID: 72
+ID: 53
 post_title: Shila
 author: arshad
 post_excerpt: >
@@ -11,7 +11,7 @@ post_excerpt: >
   possim cu eum. At duo bonorum nonumes
   omnesque.
 layout: page
-permalink: http://35.173.249.99/blog/shila/
+permalink: http://35.173.249.99/blog/?page_id=53
 published: true
 post_date: 2018-03-02 10:49:20
 ---
