@@ -1,10 +1,10 @@
 ---
-ID: 122
+ID: 103
 post_title: About Us
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/about-us/
+permalink: http://35.173.249.99/blog/?page_id=103
 published: true
 post_date: 2018-03-01 15:59:15
 ---
