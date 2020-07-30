@@ -1,5 +1,5 @@
 ---
-ID: 128
+ID: 109
 post_title: Meet Awesome People
 author: arshad
 post_excerpt: >
@@ -8,8 +8,7 @@ post_excerpt: >
   oporteat contentiones pro, virtute
   admodum facilisis in vix.
 layout: page
-permalink: >
-  http://35.173.249.99/blog/meet-awesome-people/
+permalink: http://35.173.249.99/blog/?page_id=109
 published: true
 post_date: 2018-03-01 10:34:18
 ---
