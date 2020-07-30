@@ -1,12 +1,12 @@
 ---
-ID: 80
+ID: 61
 post_title: Laci Dobra
 author: arshad
 post_excerpt: |
   Director
   Ferra Company
 layout: page
-permalink: http://35.173.249.99/blog/laci-dobra/
+permalink: http://35.173.249.99/blog/?page_id=61
 published: true
 post_date: 2018-03-02 10:06:12
 ---
