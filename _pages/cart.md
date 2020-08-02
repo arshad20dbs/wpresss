@@ -1,10 +1,11 @@
 ---
-ID: 199
+ID: 167
 post_title: Cart
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/cart/
+permalink: https://52.200.16.122/blog/cart/
 published: true
-post_date: 2020-07-22 09:35:55
+post_date: 2020-08-02 13:00:01
 ---
+<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->
