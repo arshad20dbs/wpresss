@@ -6,7 +6,7 @@ post_excerpt: |
   12 - 14 September, 2020, Kathmandu Nepal
 layout: page
 permalink: >
-  https://52.200.16.122/blog/holy-color-festival/
+  http://52.200.16.122/blog/holy-color-festival/
 published: true
 post_date: 2018-03-01 09:47:52
 ---
