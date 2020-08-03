@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: '10 - 15 December, 2018, Elmonte California '
 layout: page
 permalink: >
-  https://52.200.16.122/blog/international-event/
+  http://52.200.16.122/blog/international-event/
 published: true
 post_date: 2018-03-01 08:34:26
 ---
