@@ -16,7 +16,8 @@ post_excerpt: >
   ei sea, aliquam perfecto vis ut. Dico
   placerat sea ex.
 layout: post
-permalink: http://35.173.249.99/blog/?p=43
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/2018/03/01/amazing-people-awesome-event/
 published: true
 post_date: 2018-03-01 18:37:09
 ---

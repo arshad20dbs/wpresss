@@ -8,7 +8,8 @@ post_excerpt: >
   consequuntur ne eum, quando praesent
   percipitur at eam.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=115
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/why-you-join/
 published: true
 post_date: 2018-03-01 10:31:45
 ---

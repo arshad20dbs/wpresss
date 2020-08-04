@@ -4,7 +4,8 @@ post_title: Its Party Time 2018
 author: arshad
 post_excerpt: '31 December, 2018, London England '
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=89
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/its-party-time-2018/
 published: true
 post_date: 2018-03-01 18:02:29
 ---

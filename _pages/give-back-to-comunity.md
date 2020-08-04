@@ -9,7 +9,8 @@ post_excerpt: >
   tractatos intellegat vix, id harum
   nostro.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=105
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/give-back-to-comunity/
 published: true
 post_date: 2018-03-01 10:35:19
 ---

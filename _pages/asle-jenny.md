@@ -6,7 +6,8 @@ post_excerpt: |
   Director
   Beta Company
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=69
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/asle-jenny/
 published: true
 post_date: 2018-03-02 09:58:59
 ---

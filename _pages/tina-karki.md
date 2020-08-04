@@ -6,7 +6,8 @@ post_excerpt: |
   Director
   Egar Company
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=63
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/tina-karki/
 published: true
 post_date: 2018-03-02 10:03:38
 ---

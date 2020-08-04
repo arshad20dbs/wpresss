@@ -6,7 +6,8 @@ post_excerpt: |
   Director
   Ferra Company
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=61
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/laci-dobra/
 published: true
 post_date: 2018-03-02 10:06:12
 ---

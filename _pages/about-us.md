@@ -4,7 +4,8 @@ post_title: About Us
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=103
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/about-us/
 published: true
 post_date: 2018-03-01 15:59:15
 ---

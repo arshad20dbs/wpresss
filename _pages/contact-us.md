@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  http://52.200.16.122/blog/contact-information/contact-us/
+  https://meetxd.dbsprojects.ie/blog/contact-information/contact-us/
 published: true
 post_date: 2018-03-02 15:37:04
 ---

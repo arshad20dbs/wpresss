@@ -4,7 +4,8 @@ post_title: Party Dance
 author: arshad
 post_excerpt: ""
 layout: post
-permalink: http://35.173.249.99/blog/?p=39
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/2018/03/01/party-dance/
 published: true
 post_date: 2018-03-01 18:38:44
 ---

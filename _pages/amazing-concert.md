@@ -4,7 +4,8 @@ post_title: Amazing Concert 2019
 author: arshad
 post_excerpt: '12 January, 2019, Abuja Nigeria '
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=119
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/amazing-concert/
 published: true
 post_date: 2018-03-01 09:33:48
 ---

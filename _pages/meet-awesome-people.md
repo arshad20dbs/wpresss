@@ -8,7 +8,8 @@ post_excerpt: >
   oporteat contentiones pro, virtute
   admodum facilisis in vix.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=109
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/meet-awesome-people/
 published: true
 post_date: 2018-03-01 10:34:18
 ---

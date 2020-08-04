@@ -6,7 +6,7 @@ post_excerpt: |
   
   Vide velit affert at eos, no mel saperet percipit iudicabit, ei sea antiopam persecuti. Ut iisque nostrud eam. Sit habemus erroribus et. Paulo prodesset disputando his cu, duis disputando his ad, vim invenire patrioque ex.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=51
+permalink: https://meetxd.dbsprojects.ie/blog/mike/
 published: true
 post_date: 2018-03-02 10:49:44
 ---

@@ -9,7 +9,8 @@ post_excerpt: >
   definiebas eum, oblique pertinacia nam
   ea.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=111
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/why-should-do-events/
 published: true
 post_date: 2018-03-01 10:33:07
 ---

@@ -9,7 +9,8 @@ post_excerpt: |
   
   An velit malorum pri. Ne suas vocibus consectetuer mei, ex soleat libris alterum per. Eum ea tollit qualisque tincidunt, recteque adversarium mei ut, te novum corpora vel. Probo veniam possim cu eum. At duo bonorum nonumes omnesque.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=101
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/contact-information/
 published: true
 post_date: 2018-03-01 16:00:03
 ---

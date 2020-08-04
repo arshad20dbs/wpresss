@@ -8,7 +8,8 @@ post_excerpt: >
   at, possim nostrud appellantur cu pri.
   Debet solet definitiones at duo.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=107
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/keep-motivation/
 published: true
 post_date: 2018-03-01 10:34:51
 ---

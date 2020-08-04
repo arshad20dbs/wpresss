@@ -6,7 +6,8 @@ post_excerpt: |
   Director
   Acme Company
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=71
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/john-doe/
 published: true
 post_date: 2018-03-02 09:53:47
 ---

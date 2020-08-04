@@ -4,7 +4,8 @@ post_title: Grand Picnic 2018
 author: arshad
 post_excerpt: '22 May, 2019, Athens Greece '
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=83
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/grand-picnic-2018/
 published: true
 post_date: 2018-03-01 18:24:10
 ---

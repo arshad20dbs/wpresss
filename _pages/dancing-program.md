@@ -9,7 +9,8 @@ post_excerpt: |
   9:00 AM	Registration Starts
   9:50 AM	Dancing Program
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=75
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/dancing-program/
 published: true
 post_date: 2018-03-02 08:23:27
 ---

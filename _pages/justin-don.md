@@ -6,7 +6,8 @@ post_excerpt: |
   Director
   Decor Company
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=65
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/justin-don/
 published: true
 post_date: 2018-03-02 10:01:55
 ---

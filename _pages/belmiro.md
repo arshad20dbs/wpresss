@@ -6,7 +6,8 @@ post_excerpt: |
   Director
   Hire Company
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=57
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/belmiro/
 published: true
 post_date: 2018-03-02 10:08:26
 ---

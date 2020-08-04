@@ -7,7 +7,7 @@ post_excerpt: |
   
   [contact-form-7 id="98" title="Contact form 1"]
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=93
+permalink: https://meetxd.dbsprojects.ie/blog/faq/
 published: true
 post_date: 2018-03-01 16:33:19
 ---

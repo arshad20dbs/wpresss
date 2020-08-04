@@ -9,7 +9,8 @@ post_excerpt: |
   9:00 AM	Registration Starts
   9:50 AM	Singing Concert
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=77
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/singing-concert/
 published: true
 post_date: 2018-03-02 08:22:49
 ---

@@ -8,7 +8,8 @@ post_excerpt: >
   quo, per no delenit lucilius
   adversarium.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=113
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/what-is-events/
 published: true
 post_date: 2018-03-01 10:32:42
 ---

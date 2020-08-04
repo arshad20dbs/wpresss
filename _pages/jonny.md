@@ -11,7 +11,8 @@ post_excerpt: >
   et. In duis ocurreret consequat qui.
   Tota inimicus ea vim.
 layout: page
-permalink: http://35.173.249.99/blog/?page_id=55
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/jonny/
 published: true
 post_date: 2018-03-02 10:48:50
 ---

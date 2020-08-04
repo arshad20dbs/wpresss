@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  http://52.200.16.122/blog/wishlist/event/
+  https://meetxd.dbsprojects.ie/blog/wishlist/event/
 published: true
 post_date: 2020-08-02 14:34:05
 ---

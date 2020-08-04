@@ -4,7 +4,8 @@ post_title: 'Holy &#8211; Fun &#038; Religion'
 author: arshad
 post_excerpt: ""
 layout: post
-permalink: http://35.173.249.99/blog/?p=37
+permalink: >
+  https://meetxd.dbsprojects.ie/blog/2018/03/01/holy-fun-religion/
 published: true
 post_date: 2018-03-01 18:39:55
 ---
