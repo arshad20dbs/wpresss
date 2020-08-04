@@ -5,7 +5,7 @@ author: Joel
 post_excerpt: ""
 layout: page
 permalink: >
-  https://meetxd.dbsprojects.ie/blog/log-in/
+  http://meetxd.dbsprojects.ie/blog/log-in/
 published: true
 post_date: 2020-08-02 19:28:38
 ---
