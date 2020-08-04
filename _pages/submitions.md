@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  https://meetxd.dbsprojects.ie/blog/submitions/
+  http://meetxd.dbsprojects.ie/blog/submitions/
 published: true
 post_date: 2020-08-04 14:26:18
 ---
