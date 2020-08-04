@@ -1,11 +1,12 @@
 ---
-ID: 194
+ID: 243
 post_title: Post an Event
 author: arshad
 post_excerpt: ""
 layout: page
-permalink: http://35.173.249.99/blog/post-an-event/
+permalink: >
+  http://meetxd.dbsprojects.ie/blog/post-an-event/
 published: true
-post_date: 2020-07-22 09:29:21
+post_date: 2020-08-04 12:44:00
 ---
 [submit_event_form]
