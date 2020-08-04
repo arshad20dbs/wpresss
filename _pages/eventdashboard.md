@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  http://meetxd.dbsprojects.ie/blog/eventdashboard/
+  https://meetxd.dbsprojects.ie/blog/eventdashboard/
 published: true
 post_date: 2020-08-04 13:50:47
 ---

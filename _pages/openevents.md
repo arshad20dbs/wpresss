@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  http://meetxd.dbsprojects.ie/blog/openevents/
+  https://meetxd.dbsprojects.ie/blog/openevents/
 published: true
 post_date: 2020-08-04 14:22:13
 ---
