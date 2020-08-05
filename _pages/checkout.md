@@ -1,12 +1,11 @@
 ---
-ID: 168
+ID: 283
 post_title: Checkout
 author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  https://meetxd.dbsprojects.ie/blog/checkout/
+  http://meetxd.dbsprojects.ie/blog/checkout/
 published: true
-post_date: 2020-08-02 13:00:03
+post_date: 2020-08-05 06:13:52
 ---
-<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->
