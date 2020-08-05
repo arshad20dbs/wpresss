@@ -5,7 +5,7 @@ author: arshad
 post_excerpt: ""
 layout: page
 permalink: >
-  http://meetxd.dbsprojects.ie/blog/checkout-2/
+  https://meetxd.dbsprojects.ie/blog/checkout-2/
 published: true
 post_date: 2020-08-02 13:00:03
 ---
